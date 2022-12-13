@@ -1,0 +1,22 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Poppins', sans-serif;
+}
+.container {
+	width:100%;
+}
+.row {
+	display:flex;
+	padding:5px;
+}
+.content {
+	padding:20px;
+	display:flex;	
+}
+.icon {
+	padding:20px;
+	font-size:30px;
+	color:#f5b342;
+}
